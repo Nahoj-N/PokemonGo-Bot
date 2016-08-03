@@ -38,5 +38,7 @@
 "useIncese":"Gebruik incense wanneer mogelijk (30min)",
 "evolvePokemonIfEnoughCandy":"Evolueer Pokemon bij genoeg candy",
 "enablePokemonListGUI":"Gebruik Pokemon GUI venster",
-"keepPokemonWhichCanBeEvolved":"Bewaar Pokemon die geëvolueerd kunnen worden"
+"keepPokemonWhichCanBeEvolved":"Bewaar Pokemon die geÃ«volueerd kunnen worden"
++"autoIncubate":"Plaats eieren in incubators",
+ +"useBasicIncubators":"Gebruik standaard Incubators"
 }
